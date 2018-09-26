@@ -1,5 +1,5 @@
 import math
-for i in range(100000,1,-1):
+for i in range(1,100000):
     y = 1
     c = 0
     b = []
